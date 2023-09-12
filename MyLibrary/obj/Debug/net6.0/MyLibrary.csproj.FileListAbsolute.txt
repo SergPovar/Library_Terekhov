@@ -1,0 +1,12 @@
+/Users/sergejterehov/RiderProjects/Library_Terekhov/MyLibrary/bin/Debug/net6.0/MyLibrary.deps.json
+/Users/sergejterehov/RiderProjects/Library_Terekhov/MyLibrary/bin/Debug/net6.0/MyLibrary.dll
+/Users/sergejterehov/RiderProjects/Library_Terekhov/MyLibrary/bin/Debug/net6.0/MyLibrary.pdb
+/Users/sergejterehov/RiderProjects/Library_Terekhov/MyLibrary/obj/Debug/net6.0/MyLibrary.csproj.AssemblyReference.cache
+/Users/sergejterehov/RiderProjects/Library_Terekhov/MyLibrary/obj/Debug/net6.0/MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejterehov/RiderProjects/Library_Terekhov/MyLibrary/obj/Debug/net6.0/MyLibrary.AssemblyInfoInputs.cache
+/Users/sergejterehov/RiderProjects/Library_Terekhov/MyLibrary/obj/Debug/net6.0/MyLibrary.AssemblyInfo.cs
+/Users/sergejterehov/RiderProjects/Library_Terekhov/MyLibrary/obj/Debug/net6.0/MyLibrary.csproj.CoreCompileInputs.cache
+/Users/sergejterehov/RiderProjects/Library_Terekhov/MyLibrary/obj/Debug/net6.0/MyLibrary.dll
+/Users/sergejterehov/RiderProjects/Library_Terekhov/MyLibrary/obj/Debug/net6.0/refint/MyLibrary.dll
+/Users/sergejterehov/RiderProjects/Library_Terekhov/MyLibrary/obj/Debug/net6.0/MyLibrary.pdb
+/Users/sergejterehov/RiderProjects/Library_Terekhov/MyLibrary/obj/Debug/net6.0/ref/MyLibrary.dll
